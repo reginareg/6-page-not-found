@@ -17,7 +17,7 @@ Design: [Page not found](https://internetdevels.com/sites/default/files/public/b
 
 -   Github pages (multi-page)
 -   HTML form
--   header: logo + nav
+-   footer: nav
 
 
 ## Authors
